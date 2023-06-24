@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/2c1db89c0caa411e8cc9e28a8c20d025/artifacts
+end_time: 1687608657554
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c1db89c0caa411e8cc9e28a8c20d025
+run_name: lyrical-snail-87
+run_uuid: 2c1db89c0caa411e8cc9e28a8c20d025
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608648975
+status: 3
+tags: []
+user_id: Garv

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/63c63abe382e4273830f57a56dde55fc/artifacts
+end_time: 1687608621843
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63c63abe382e4273830f57a56dde55fc
+run_name: burly-doe-370
+run_uuid: 63c63abe382e4273830f57a56dde55fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608610488
+status: 3
+tags: []
+user_id: Garv

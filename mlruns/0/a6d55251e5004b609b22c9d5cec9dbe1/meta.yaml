@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/a6d55251e5004b609b22c9d5cec9dbe1/artifacts
+end_time: 1687608371725
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6d55251e5004b609b22c9d5cec9dbe1
+run_name: debonair-pug-655
+run_uuid: a6d55251e5004b609b22c9d5cec9dbe1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608360548
+status: 3
+tags: []
+user_id: Garv

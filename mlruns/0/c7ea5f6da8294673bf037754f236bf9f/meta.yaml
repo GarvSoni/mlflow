@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/c7ea5f6da8294673bf037754f236bf9f/artifacts
+end_time: 1687608519131
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7ea5f6da8294673bf037754f236bf9f
+run_name: upset-stoat-733
+run_uuid: c7ea5f6da8294673bf037754f236bf9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608510396
+status: 3
+tags: []
+user_id: Garv

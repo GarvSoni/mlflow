@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/d42facf1ae3f447fae93c13c073a30a3/artifacts
+end_time: 1687607561120
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d42facf1ae3f447fae93c13c073a30a3
+run_name: bald-moth-704
+run_uuid: d42facf1ae3f447fae93c13c073a30a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687607541186
+status: 3
+tags: []
+user_id: Garv

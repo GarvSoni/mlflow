@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/060993d2b6924242a74ebf2e40a2e353/artifacts
+end_time: 1687608502572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 060993d2b6924242a74ebf2e40a2e353
+run_name: gifted-chimp-634
+run_uuid: 060993d2b6924242a74ebf2e40a2e353
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608493789
+status: 3
+tags: []
+user_id: Garv

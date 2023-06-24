@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/40b74e6e57f64a95847a3b6c6e1a028a/artifacts
+end_time: 1687608789058
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 40b74e6e57f64a95847a3b6c6e1a028a
+run_name: sassy-cat-628
+run_uuid: 40b74e6e57f64a95847a3b6c6e1a028a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608778154
+status: 3
+tags: []
+user_id: Garv

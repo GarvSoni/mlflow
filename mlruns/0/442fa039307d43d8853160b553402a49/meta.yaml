@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/442fa039307d43d8853160b553402a49/artifacts
+end_time: 1687608640205
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 442fa039307d43d8853160b553402a49
+run_name: ambitious-zebra-363
+run_uuid: 442fa039307d43d8853160b553402a49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608630142
+status: 3
+tags: []
+user_id: Garv

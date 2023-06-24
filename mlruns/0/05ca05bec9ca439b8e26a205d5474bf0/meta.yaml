@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/05ca05bec9ca439b8e26a205d5474bf0/artifacts
+end_time: 1687607833423
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05ca05bec9ca439b8e26a205d5474bf0
+run_name: likeable-steed-352
+run_uuid: 05ca05bec9ca439b8e26a205d5474bf0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687607816778
+status: 3
+tags: []
+user_id: Garv

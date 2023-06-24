@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/d179b62dd55b4bc98e9e175e49c73c69/artifacts
+end_time: 1687608679104
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d179b62dd55b4bc98e9e175e49c73c69
+run_name: useful-foal-310
+run_uuid: d179b62dd55b4bc98e9e175e49c73c69
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608665244
+status: 3
+tags: []
+user_id: Garv

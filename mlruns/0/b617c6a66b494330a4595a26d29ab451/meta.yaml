@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/b617c6a66b494330a4595a26d29ab451/artifacts
+end_time: 1687608410220
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b617c6a66b494330a4595a26d29ab451
+run_name: worried-bass-836
+run_uuid: b617c6a66b494330a4595a26d29ab451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608398539
+status: 3
+tags: []
+user_id: Garv

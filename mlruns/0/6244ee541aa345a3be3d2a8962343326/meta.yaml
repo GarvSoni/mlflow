@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/6244ee541aa345a3be3d2a8962343326/artifacts
+end_time: 1687608484481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6244ee541aa345a3be3d2a8962343326
+run_name: skittish-fawn-130
+run_uuid: 6244ee541aa345a3be3d2a8962343326
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608472552
+status: 3
+tags: []
+user_id: Garv

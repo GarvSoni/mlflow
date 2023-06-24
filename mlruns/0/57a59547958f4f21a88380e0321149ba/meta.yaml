@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/57a59547958f4f21a88380e0321149ba/artifacts
+end_time: 1687608697679
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 57a59547958f4f21a88380e0321149ba
+run_name: masked-zebra-170
+run_uuid: 57a59547958f4f21a88380e0321149ba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608687570
+status: 3
+tags: []
+user_id: Garv

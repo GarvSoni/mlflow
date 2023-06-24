@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/6cc3077d34ba46c5a37f5332241aa60a/artifacts
+end_time: 1687608828067
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6cc3077d34ba46c5a37f5332241aa60a
+run_name: debonair-dove-124
+run_uuid: 6cc3077d34ba46c5a37f5332241aa60a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608816017
+status: 3
+tags: []
+user_id: Garv

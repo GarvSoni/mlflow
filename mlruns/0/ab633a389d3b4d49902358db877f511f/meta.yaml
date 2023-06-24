@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/ab633a389d3b4d49902358db877f511f/artifacts
+end_time: 1687608600446
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab633a389d3b4d49902358db877f511f
+run_name: thoughtful-newt-604
+run_uuid: ab633a389d3b4d49902358db877f511f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687608589833
+status: 3
+tags: []
+user_id: Garv
